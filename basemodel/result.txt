@@ -1,0 +1,4 @@
+Instant_Video,MNRec_intentagGCN_Gumbelkeep5,0.1066,0.0378,0.0193
+Amazon_App,MNRec_intentagGCN_Gumbelkeep5,0.1244,0.0550,0.0358
+Kindle,MNRec_intentagGCN_Gumbelkeep5,0.0977,0.0450,0.0305
+Instant_Video,M3IB,0.2089,0.1022,0.0726
